@@ -32,7 +32,7 @@ This project is a Chess Engine implemented in JavaScript, featuring an interacti
 
 ## Demo
 
-Include a screenshot or GIF demonstrating the functionality of your chess engine here, showcasing the interactive chessboard and gameplay.
+![chess_demo](https://github.com/tahakh03/Chess-Engine/blob/main/chess_demo.gif)
 
 ## Usage
 
